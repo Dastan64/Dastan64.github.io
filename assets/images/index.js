@@ -1,0 +1,1 @@
+import"../styles/index.scss";import"./tabs";import"./theme";import{toggleLanguages}from"./toggleLanguages";import{renderJobs}from"./renderJobs";toggleLanguages(),renderJobs();
